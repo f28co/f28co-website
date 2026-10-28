@@ -8,6 +8,7 @@ F28 began in 2019 as F28 Agency, an operations and systems agency. Clients staye
 - Fractional COO leadership and operational assessments
 - Process mapping, SOPs and process documentation
 - AI and automation
+- AI readiness and risk assessments, AI governance and controls, AI strategy and roadmapping, led by Fallon Scott, CPA, and an AI Governance & Risk Lead with 18 years in bank compliance and risk
 - Custom platforms (apps, CRMs, ERPs, LMS): F28 leads operational architecture, product management and implementation; development partners handle engineering
 - Hiring systems, org design, training and recruiting, including skilled offshore talent
 
@@ -16,7 +17,7 @@ F28 began in 2019 as F28 Agency, an operations and systems agency. Clients staye
 - Growth capital and funding
 - PR, paid ads and marketing execution
 - Legal, risk and compliance
-- ISO/IEC 42001 and ISO/IEC 27001 certification support, cybersecurity
+- ISO/IEC 42001 and ISO/IEC 27001 implementation and certification readiness, cybersecurity
 
 ## Pages
 - [Home](https://f28co.com/)
