@@ -22,6 +22,7 @@ F28 began in 2019 as F28 Agency, an operations and systems agency. Clients staye
 ## Pages
 - [Home](https://f28co.com/)
 - [What We Cover](https://f28co.com/what-we-cover/)
+- [AI Readiness](https://f28co.com/ai-readiness/)
 - [Technology & Security](https://f28co.com/what-we-cover/technology-security/)
 - [Team](https://f28co.com/team/)
 - [Founder: Fallon Scott](https://fallonscott.com/about)
