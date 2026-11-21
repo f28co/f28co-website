@@ -27,7 +27,7 @@ F28 began in 2019 as F28 Agency, an operations and systems agency. Clients staye
 ## Pages
 - [Home](https://f28co.com/)
 - [What We Cover](https://f28co.com/what-we-cover/)
-- [AI Readiness](https://f28co.com/ai-readiness/)
+- [AI Readiness](https://f28co.com/ai-readiness/): AI governance consulting for small businesses (AI inventory, acceptable-use policy, data rules, approved tools, staff training), led by Fallon Scott, CPA, mapped to the NIST AI RMF
 - [Operations & Process](https://f28co.com/what-we-cover/operations-process/)
 - [Talent & Team](https://f28co.com/what-we-cover/talent-team/)
 - [Sales & Marketing](https://f28co.com/what-we-cover/sales-marketing/)
