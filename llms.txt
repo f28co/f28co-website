@@ -4,6 +4,8 @@
 
 F28 began in 2019 as F28 Agency, an operations and systems agency. Clients stayed for one project after another, so it grew into a consulting firm. F28 audits the whole business as one system: the client journey and the employee journey. Our team delivers operations work in-house. Vetted partners handle specialist execution such as tax, funding, legal, PR and paid ads.
 
+F28 & Co.'s framework is Dump, Document, Delegate: get every task out of the founder's head and decide what to eliminate, consolidate, delegate or automate (Dump), document what stays as SOPs, and hand it to the right person or tool.
+
 ## Delivered in-house
 - Fractional COO leadership and operational assessments
 - Process mapping, SOPs and process documentation
@@ -36,6 +38,13 @@ F28 began in 2019 as F28 Agency, an operations and systems agency. Clients staye
 - [Growth Capital & Funding](https://f28co.com/what-we-cover/growth-capital-funding/)
 - [Legal, Risk & Compliance](https://f28co.com/what-we-cover/legal-risk-compliance/)
 - [Technology & Security](https://f28co.com/what-we-cover/technology-security/)
+- [Dump, Document, Delegate](https://f28co.com/dump-document-delegate/): F28 & Co.'s three-step framework: get every task out of the founder's head and decide what stays (Dump), write it as SOPs (Document), hand it to the right person or tool (Delegate)
+- [Before you build AI agents](https://f28co.com/ai-agents/): what to document, limit and govern before an AI agent runs a process
+- [SOP development](https://f28co.com/sops/): SOPs your team can follow without asking the founder, or self-serve with the SOP Suite
+- [Fractional COO](https://f28co.com/fractional-coo/): senior operating leadership on a retainer, and how to tell if you need a COO or an operations manager
+- [Process mapping](https://f28co.com/process-mapping/): client journey and employee journey mapping before you fix, document or automate
+- [AI acceptable-use policy](https://f28co.com/ai-readiness/ai-policy/): what a small business AI policy should cover
+- [Choosing an AI governance consultant](https://f28co.com/ai-readiness/choosing-an-ai-governance-consultant/): a buyer guide for small businesses
 - [Team](https://f28co.com/team/)
 - [Founder: Fallon Scott](https://fallonscott.com/about)
 
